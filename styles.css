@@ -101,6 +101,9 @@ main h1{
 .task img{
     width: 3vw;
 }
+.completed-task p{
+    text-decoration: line-through;
+}
 
 footer{
     display: flex;
